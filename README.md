@@ -13,7 +13,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Overview
 
 - This is a simple HTML and CSS Project.
-- It is a card that shows a summary of an order.
+- It is a card that shows the details of an order.
 
 ## Screenshot
 
@@ -22,7 +22,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Links
 
 - Solution URL: [GitHub Repo](https://github.com/AmmarMKamel/order-summary-component)
-- Live Site URL: [Product Preview Card](https://ammarmkamel.github.io/order-summary-component/)
+- Live Site URL: [Order Summary Card](https://ammarmkamel.github.io/order-summary-component/)
 
 ## Built with
 
